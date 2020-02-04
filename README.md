@@ -2,8 +2,10 @@
 Deep Ensemble Learning for Human Action Recognition in Still Images
 
 
-The code is provided by Xiangchun Yu.
+The codes are provided by Xiangchun Yu.
+
 Email:yxchspring0209@foxmail.com
+
 Data: November 08, 2019
 ###################################################################
 Step1. Please extract the compressed file to the current folder.
@@ -47,3 +49,7 @@ Main7_DELVS2.py
 Main7_DELVS3.py
 
 Note: The final results will be obtained directly using the above python scripts.
+
+If you feel the codes are useful, please cite our following published paper,
+
+Xiangchun Yu, Zhe Zhang, Lei Wu, Wei Pang, Hechang Chen, Zhezhou Yu, and Bin Li, "Deep Ensemble Learning for Human Action Recognition in Still Images," Complexity, vol. 2020, Article ID 9428612, 23 pages, 2020. https://doi.org/10.1155/2020/9428612.

@@ -13,7 +13,7 @@ Step1. Please extract the compressed file to the current folder.
 Such as: deep_ensemble_learning/Action_ForCNN/train...
 
 
-Step2. Train the VGG16, VGG16_NCNN, VGG19,VGG19_NCNN,ResNet50,ResNet50_NCNN models using the following python scripts,
+Step2. Train the VGG16, VGG16_NCNN, VGG19, VGG19_NCNN, ResNet50, ResNet50_NCNN models using the following python scripts,
 
 Main1_VGG16.py
 
